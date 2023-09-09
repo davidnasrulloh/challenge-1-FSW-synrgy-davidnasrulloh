@@ -1,0 +1,22 @@
+.container-header {
+    height: 33rem;
+    width: 100%;
+}
+
+.img-car {
+    right: 0;
+    bottom: 0;
+}
+
+.content-header {
+    /* padding-left: 11rem; */
+    padding-right: 4rem;
+}
+
+.img-icon {
+    width: 5%;
+}
+
+.icon-why-us {
+    width: 2rem;
+}
