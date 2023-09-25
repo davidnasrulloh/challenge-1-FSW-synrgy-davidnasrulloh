@@ -1,4 +1,4 @@
-# README - Binar Car Rental Landing Page
+# README - Binar Car Rental Landing Page | Challenge 2 Responsive 
 
 Nama: David Nasrulloh
 ID: FSW2308SYN027
@@ -6,7 +6,7 @@ Kelas: Fulllstack Web Javascript 2
 
 ## Deskripsi Tugas
 
-Saya, David Nasrulloh, peserta dari kelas Fullstack Web Javascript dengan ID FSW2308SYN027, telah menyelesaikan Challenge 1 dalam program SYNRGY BCA x Binar ACADEMY. Pada challenge ini, saya telah berhasil membuat sebuah landing page menggunakan CSS yang diberi nama "Binar Car Rental".
+Saya, David Nasrulloh, peserta dari kelas Fullstack Web Javascript dengan ID FSW2308SYN027, telah menyelesaikan Challenge 2 dalam program SYNRGY BCA x Binar ACADEMY. Pada challenge ini, saya telah berhasil membuat sebuah landing page menggunakan CSS yang diberi nama "Binar Car Rental" dengan responsive dari tampilan dekstop ke mobile.
 
 ## Deskripsi Proyek
 
